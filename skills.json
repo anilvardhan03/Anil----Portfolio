@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Java and J2EE technologies",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/color/48/000000/spring-logo.png"
+    },
+    {
+        "name": "HTML",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "React JS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "Oracle SQL & PL SQL",
+        "icon": "https://img.icons8.com/color/48/000000/oracle-logo.png"
+    },
+    {
+        "name": "Amazon Web Services",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "GIT",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/color/48/000000/jenkins.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/000000/docker.png"
+    },
+    {
+        "name": "Maven",
+        "icon": "https://icon.icepanel.io/Technology/svg/Apache-Maven.svg"
+    },
+    {
+        "name": "Jira",
+        "icon": "https://img.icons8.com/color/48/000000/jira.png"
+    },
+    {
+        "name": "JUnit",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Mockito",
+        "icon": "https://avatars.githubusercontent.com/u/2450891?s=200&v=4"
+    },
+    {
+        "name": "JMeter",
+        "icon": "https://jmeter.apache.org/images/favicon.png"
+    },
+    {
+        "name": "Log4J",
+        "icon": "https://logging.apache.org/log4j/2.x/_images/logo-small-white.png"
+    },
+    {
+        "name": "SLF4J",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "ELK",
+        "icon": "https://img.icons8.com/color/48/000000/elasticsearch.png"
+    },
+    {
+        "name": "MicroSoft VS Code",
+        "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
+    },
+    {
+        "name": "Eclipse",
+        "icon": "https://img.icons8.com/offices/48/000000/java-eclipse.png"
+    },
+    {
+        "name": "SQL Developer",
+        "icon": "https://img.icons8.com/color/48/000000/oracle-logo.png"
+    },
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/color/48/000000/postman.png"
+    },
+    {
+        "name" : "My SQL",
+        "icon" : "https://img.icons8.com/color/48/000000/mysql.png"
+    }
+]
